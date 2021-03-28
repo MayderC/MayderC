@@ -21,7 +21,7 @@ I am a student, i live in Costa Rica and i like Web development frontent and bac
 - Crud php http://maydev.me
 
 
-## Projects on my github :octocat:
+## Github projects :octocat:
 
 ### Ip Addres Tracker
 - https://github.com/MayderC/ip-addres-tracker
