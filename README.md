@@ -3,25 +3,25 @@
 ## I am Mayder
 I am a student, i live in Costa Rica and i like Web development frontent and backend.
 
-### My knowledge
+### My knowledge :books:
 - :pencil2: SQL queries (MySQL, SQL Server)
 - :pencil2: PHP, OOP
 - :pencil2: HTML5, CSS and Javascript
 - :pencil2: Linux, Terminal
 - :pencil2: English: A2
 
-### Extra knowledge
+### Extra knowledge :books:
 
 - Responsive design
 - Bootstrap
 -  Wordpress
 
-### Online projects
+### Online projects :earth_americas:
 - Website https://mayder.codes
 - Crud php http://maydev.me
 
 
-## Projects on my github
+## Projects on my github :octocat:
 
 ### Ip Addres Tracker
 - https://github.com/MayderC/ip-addres-tracker
