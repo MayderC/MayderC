@@ -1,14 +1,14 @@
-# Hello! :wave:
+# Hello!
 
 ## I am Mayder
 I am a student, i live in Costa Rica and i like Web development frontent and backend.
 
 ### My knowledge
-- SQL queries (MySQL, SQL Server)
-- PHP, OOP
-- HTML5, CSS and Javascript
-- Linux, Terminal
-- English: A2
+- :pencil2: SQL queries (MySQL, SQL Server)
+- :pencil2: PHP, OOP
+- :pencil2: HTML5, CSS and Javascript
+- :pencil2: Linux, Terminal
+- :pencil2: English: A2
 
 ### Extra knowledge
 
