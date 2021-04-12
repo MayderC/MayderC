@@ -6,7 +6,7 @@ I am a student, i live in Costa Rica and i like Web development frontent and bac
 ### My knowledge :books:
 - :pencil2: SQL queries (MySQL, SQL Server)
 - :pencil2: PHP, OOP
-- :pencil12: Python
+- :pencil2: Python
 - :pencil2: HTML5, CSS and Javascript 
 - :pencil2: Linux, Terminal
 - :pencil2: English: A2
