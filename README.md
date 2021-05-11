@@ -1,7 +1,7 @@
 # Hello!
 
 ## I am Mayder
-I am a student, i live in Costa Rica and i like Web development frontent and backend.
+I am a student, i live in Costa Rica and i like Web development frontend and backend.
 
 ### My knowledge :books:
 - :pencil2: SQL queries (MySQL, SQL Server)
