@@ -30,8 +30,9 @@ I am a student, i live in Costa Rica and i like Web development frontend and bac
 <img src="https://camo.githubusercontent.com/e98e270c8dc7d03afe0180a6f272ff6d31aa0c692f11d3b0e8f0d466417fa2f9/68747470733a2f2f692e696d6775722e636f6d2f554c774e494a472e706e67" width="" style="border-radius: 15px;">
 
 ## vuejs-shop-example
--- https://github.com/MayderC/vuejs-shop-example
+- https://github.com/MayderC/vuejs-shop-example
 ![imagen](https://raw.githubusercontent.com/MayderC/vuejs-shop-example/master/shop.png)
+
 ![imagen](https://raw.githubusercontent.com/MayderC/vuejs-shop-example/master/shopwhite.PNG)
 
 
