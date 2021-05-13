@@ -31,9 +31,11 @@ I am a student, i live in Costa Rica and i like Web development frontend and bac
 
 ## vuejs-shop-example
 - https://github.com/MayderC/vuejs-shop-example
-![imagen](https://raw.githubusercontent.com/MayderC/vuejs-shop-example/master/shop.png)
 
 ![imagen](https://raw.githubusercontent.com/MayderC/vuejs-shop-example/master/shopwhite.PNG)
+
+![imagen](https://raw.githubusercontent.com/MayderC/vuejs-shop-example/master/shop.png)
+
 
 
 ### App Contacts : CRUD
