@@ -9,7 +9,7 @@ I am a student, i live in Costa Rica and i like Web development frontend and bac
 - :pencil2: Python
 - :pencil2: HTML5, CSS and Javascript 
 - :pencil2: Linux, Terminal
-- :pencil2: English: A2
+- :pencil2: English: Basic
 
 ### Extra knowledge :books:
 
@@ -19,7 +19,7 @@ I am a student, i live in Costa Rica and i like Web development frontend and bac
 
 ### Online projects :earth_americas:
 - Website https://mayder.codes
-- Crud php http://maydev.me
+- App Vuejs https://mayderc-rick-and-morty.netlify.app/
 
 
 ## Github projects :octocat:
