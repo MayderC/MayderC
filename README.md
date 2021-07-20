@@ -21,6 +21,12 @@ I am a student, i live in Costa Rica and i like Web development frontend and bac
 - Website https://mayder.codes
 - App Vuejs https://mayderc-rick-and-morty.netlify.app/
 
+### Rick And Morty App - Vuejs
+- https://mayderc-rick-and-morty.netlify.app/
+- https://github.com/MayderC/rick-morty-frontend-vue
+
+<img src="https://i.imgur.com/UMayly5.png" width="" style="border-radius: 15px;">
+<img src="https://i.imgur.com/6LCorjQ.png" width="" style="border-radius: 15px;">
 
 ## Github projects :octocat:
 
@@ -51,10 +57,6 @@ I am a student, i live in Costa Rica and i like Web development frontend and bac
 
 <img src="https://camo.githubusercontent.com/d601264322d26f8316b58591b9fd5787220e283832360be9fd7eef96f7706773/68747470733a2f2f692e696d6775722e636f6d2f5a356d49534f772e706e67" width="" style="border-radius: 15px;">
 
-
-
-### Gallery PHP
-- https://github.com/MayderC/gallery-php-mysql
 
 ### Discord bot
 - https://github.com/MayderC/Bot-ChuckNorris
