@@ -26,8 +26,8 @@ I am a student, i live in Costa Rica and i like Web development frontend and bac
 - https://mayderc-rick-and-morty.netlify.app/
 - https://github.com/MayderC/rick-morty-frontend-vue
 
-<img src="https://i.imgur.com/UMayly5.png" width="" style="border-radius: 15px;">
-<img src="https://i.imgur.com/6LCorjQ.png" width="" style="border-radius: 15px;">
+<img src="https://raw.githubusercontent.com/MayderC/MayderC/main/home.PNG" width="" style="border-radius: 15px;">
+<img src="https://raw.githubusercontent.com/MayderC/MayderC/main/character.PNG" width="" style="border-radius: 15px;">
 
 ## Github projects :octocat:
 
