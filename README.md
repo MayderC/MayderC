@@ -43,21 +43,9 @@ I am a student, i live in Costa Rica and i like Web development frontend and bac
 
 ![imagen](https://raw.githubusercontent.com/MayderC/vuejs-shop-example/master/shop.png)
 
-
-
-### App Contacts : CRUD
-- https://github.com/MayderC/App_contactos
-
-<img src="https://raw.githubusercontent.com/MayderC/App_contactos/main/assets/img/login.PNG"  style="border-radius: 15px;">
-
-<img src="https://raw.githubusercontent.com/MayderC/App_contactos/main/assets/img/home.PNG"  style="border-radius: 15px;">
-
 ### Profile Card
 - This is a challenge from https://www.frontendmentor.io/
 - https://github.com/MayderC/profile-card-component
 
 <img src="https://camo.githubusercontent.com/d601264322d26f8316b58591b9fd5787220e283832360be9fd7eef96f7706773/68747470733a2f2f692e696d6775722e636f6d2f5a356d49534f772e706e67" width="" style="border-radius: 15px;">
 
-
-### Discord bot
-- https://github.com/MayderC/Bot-ChuckNorris
