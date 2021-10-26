@@ -8,7 +8,7 @@ I am a student, i live in Costa Rica and i like Web development frontend and bac
 - :pencil2: PHP, OOP
 - :pencil2: Python
 - :pencil2: HTML5, CSS and Javascript 
-- :pencil2: VueJs Basic
+- :pencil2: VueJs 
 - :pencil2: Linux, Terminal
 - :pencil2: English: Basic
 
