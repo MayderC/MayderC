@@ -39,6 +39,14 @@ I am a student, i live in Costa Rica and i like Web development frontend and bac
 <img src="https://raw.githubusercontent.com/MayderC/MayderC/main/character.PNG" width="" style="border-radius: 15px;">
 
 
+### TaskList - Vuejs
+- https://tasskapp.netlify.app/#/
+- https://github.com/MayderC/taskapp-frontend
+
+<img src="https://raw.githubusercontent.com/MayderC/taskapp-frontend/main/home.PNG" width="" style="border-radius: 15px;">
+<img src="https://raw.githubusercontent.com/MayderC/taskapp-frontend/main/Captura2.PNG" width="" style="border-radius: 15px;">
+
+
 ## Github projects :octocat:
 
 ### Ip Addres Tracker
