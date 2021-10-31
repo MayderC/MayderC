@@ -19,7 +19,7 @@ I am a student, i live in Costa Rica and i like Web development frontend and bac
 - Wordpress
 
 ### Online projects :earth_americas:
-- Website https://mayder.codes
+- Website https://mayderc-portfolio.netlify.app/
 - App Vuejs https://mayderc-rick-and-morty.netlify.app/
 
 ### DevFinder -Vuejs
