@@ -5,10 +5,10 @@ I am a student, i live in Costa Rica and i like Web development frontend and bac
 
 ### My knowledge :books:
 - :pencil2: SQL queries (MySQL, SQL Server)
-- :pencil2: PHP, OOP
-- :pencil2: Nodejs - Express (Basic)
 - :pencil2: HTML5, CSS and Javascript 
-- :pencil2: VueJs 
+- :pencil2: Nodejs - Express
+- :pencil2: VueJs
+- :pencil2: Nuxtjs (basic)
 - :pencil2: Linux, Terminal
 - :pencil2: English: Basic
 
