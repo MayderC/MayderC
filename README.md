@@ -8,6 +8,7 @@ I am a student, i live in Costa Rica and i like Web development frontend and bac
 - :pencil2: HTML5, CSS and Javascript 
 - :pencil2: Nodejs - Express
 - :pencil2: VueJs
+- :pencil2: ReactJs
 - :pencil2: Nuxtjs (basic)
 - :pencil2: Linux, Terminal
 - :pencil2: English: Basic
