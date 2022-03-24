@@ -23,7 +23,7 @@ I am a student, i live in Costa Rica and i like Web development frontend and bac
 - Website https://mayder.herokuapp.com/
 - App Vuejs https://mayderc-rick-and-morty.netlify.app/
 
-## Github projects :octocat:
+# Github projects :octocat:
 
 ## LinkList
 
