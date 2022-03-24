@@ -23,6 +23,8 @@ I am a student, i live in Costa Rica and i like Web development frontend and bac
 - Website https://mayder.herokuapp.com/
 - App Vuejs https://mayderc-rick-and-morty.netlify.app/
 
+## Github projects :octocat:
+
 ## LinkList
 
 - https://github.com/MayderC/linklist-frontend
@@ -67,7 +69,6 @@ I am a student, i live in Costa Rica and i like Web development frontend and bac
 <img src="https://raw.githubusercontent.com/MayderC/taskapp-frontend/main/Captura2.PNG" alt="MayderC task" width="" style="border-radius: 15px;">
 
 
-## Github projects :octocat:
 
 ### Ip Addres Tracker
 - https://github.com/MayderC/ip-addres-tracker
