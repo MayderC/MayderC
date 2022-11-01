@@ -1,6 +1,5 @@
 # Hello!
 
-## Hello!
 My name is Mayder I'm a web developer, frontend and backend.
 
 ### My knowledge :books:
