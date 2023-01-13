@@ -4,11 +4,9 @@ My name is Mayder I'm a web developer, frontend and backend.
 
 ### My knowledge :books:
 - :pencil2: SQL queries (MySQL, SQL Server)
-- :pencil2: HTML5, CSS and Javascript 
-- :pencil2: Nodejs - Express
-- :pencil2: VueJs
-- :pencil2: ReactJs
-- :pencil2: Nuxtjs (basic)
+- :pencil2: HTML5, CSS & Javascript, Typescript
+- :pencil2: VueJs, Nuxt & ReactJs
+- :pencil2: Nodejs - Express & NestJs
 - :pencil2: Linux, Terminal
 - :pencil2: English: Basic
 
