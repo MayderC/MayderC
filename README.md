@@ -55,7 +55,8 @@
 - Online: https://tasskapp.netlify.app/#/
 
 <img src="https://raw.githubusercontent.com/MayderC/taskapp-frontend/main/home.PNG" alt="MayderC task" width="" style="border-radius: 15px;">
-<img src="https://raw.githubusercontent.com/MayderC/taskapp-frontend/main/Captura2.PNG" alt="MayderC task" width="" style="border-radius: 15px;">
+<img src="https://raw.githubusercontent.com/MayderC/linklist-frontend/develop/insert.png" alt="MayderC task" width="" style="border-radius: 15px;">
+<img src="https://raw.githubusercontent.com/MayderC/linklist-frontend/develop/list.png" alt="MayderC task" width="" style="border-radius: 15px;">
 
 ## Github projects :octocat:
 
