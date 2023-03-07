@@ -20,7 +20,8 @@
 - Online: https://fierce-lowlands-38911.herokuapp.com/
 
 <img src="https://github.com/MayderC/linklist-frontend/blob/main/login.png" alt="MayderC LinkList" width="" style="border-radius: 15px;">
-<img src="https://raw.githubusercontent.com/MayderC/linklist-frontend/main/insert.png" alt="MayderC LinkList" width="" style="border-radius: 15px;">
+<img src="https://raw.githubusercontent.com/MayderC/linklist-frontend/develop/insert.png" alt="MayderC LinkList" width="" style="border-radius: 15px;">
+<img src="https://raw.githubusercontent.com/MayderC/linklist-frontend/develop/list.png" alt="MayderC LinkList" width="" style="border-radius: 15px;">
 
 ## Mychat
 
