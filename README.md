@@ -14,6 +14,14 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+## MindIA
+- https://github.com/MayderC/mind-map-ia
+- Online: https://mind-map-ia-production.up.railway.app/
+
+![MindIA Logo](https://github.com/MayderC/mind-map-ia/blob/main/home.png?raw=true)
+![Screenshot](https://github.com/MayderC/mind-map-ia/blob/main/map.png?raw=true)
+![Screenshot](https://github.com/MayderC/mind-map-ia/blob/main/summary.png?raw=true)
+
 ## LinkList
 
 - https://github.com/MayderC/linklist-frontend
